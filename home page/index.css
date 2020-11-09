@@ -1,0 +1,73 @@
+.container{
+	width:1200px;
+	position: relative;
+}
+.bg_width{
+	width: 1200px;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	background: #000000;
+}
+.my_border_color{
+	border-color: #0aa1ed;
+}
+.search{
+	width: 500px;
+	height: 34px;
+	margin-top: -90px;
+	margin-left: 210px;
+}
+.xian{
+	width: 500px;
+	height: 34px;
+	background: #B9BBBE;
+	margin-left: 210px;
+	margin-top: 10px;
+	padding-top: 5px;
+}
+.xian a{
+	color: black;
+	font-size: 18px;
+}
+.xian a:hover{
+	color: #721C24;
+}
+.item{
+	width: 220px;
+	height: 300px;
+	background: #002752;
+	position: absolute;
+}
+#parent{
+	width: 500px;height: 300px;
+	margin-left: 230px;
+	margin-top: 20px;
+}
+.carousel-indicators li{
+	width: 0.8rem;height: 0.8rem;
+	border-radius: 50%;
+	background-color: #fff;
+	margin-left: 0.3rem;
+	margin-right: 0.3rem;
+}
+.carousel-indicators li.active{
+	background-color: #0aa1ed;
+}
+.carousel-control-next,.carousel-control-prev{
+	width: 4%;height: 20%;
+	top:40%;
+	border-radius: 0.25rem;
+	background:#aaa;
+}
+.carousel-control-next{right:0.3rem;}
+.carousel-control-prev{left:0.3rem;}
+.shihui>div{
+	width: 250px;height: 150px;
+	background: #000000;
+}
+.good{
+	height: 100px;
+	background: #002752;
+}

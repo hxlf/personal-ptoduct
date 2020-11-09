@@ -1,0 +1,11 @@
+.my_header,.my_footer{
+	width: 100%;border: 0;
+}
+@media (min-width:576px) {
+	.my_header{height: 12rem;}
+	.my_footer{height: 35rem;}
+}
+@media (min-width:992px) {
+	.my_header{height: 7rem;}
+	.my_footer{height: 22rem;}
+}

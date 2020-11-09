@@ -1,0 +1,33 @@
+.container{
+	width:1200px;
+	position: relative;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	background: #000000;
+}
+.my_border_color{
+	border-color: #0aa1ed;
+}
+.search{
+	width: 500px;
+	height: 34px;
+	margin-top: -90px;
+	margin-left: 210px;
+}
+.xian{
+	width: 500px;
+	height: 34px;
+	background: #B9BBBE;
+	margin-left: 210px;
+	margin-top: 10px;
+	padding-top: 5px;
+}
+.xian a{
+	color: black;
+	font-size: 18px;
+}
+.xian a:hover{
+	color: #721C24;
+}
